@@ -3,13 +3,6 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Как тебя зовут?");
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        System.out.print("Привет, " + str + "!");
-
-
-
 
 
     }
