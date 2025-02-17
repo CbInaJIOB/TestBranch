@@ -1,0 +1,16 @@
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.Scanner;
+public class Main {
+    public static void main(String[] args) {        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.println("Как тебя зовут?");
+        Scanner sc = new Scanner(System.in);
+        String str = sc.nextLine();
+        System.out.print("Привет, " + str + "!");
+
+
+
+
+
+    }
+}
