@@ -48,5 +48,6 @@ public class Main {
         System.out.println("Задание 3");
         int deliveryDistance  = 95;
         System.out.println(deliveryTime(deliveryDistance));
+
     }
 }
